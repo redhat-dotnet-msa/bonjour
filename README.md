@@ -1,2 +1,2 @@
 # bonjour
-Tiny RESTful service that returns "bonjour" -- Written in F#
+Part of the helloworld-msa-dotnet solution
