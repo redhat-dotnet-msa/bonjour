@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/redhat-dotnet-msa/bonjour.png?label=ready&title=Ready)](https://waffle.io/redhat-dotnet-msa/bonjour)
 # bonjour
 Part of the helloworld-msa-dotnet solution.
 
