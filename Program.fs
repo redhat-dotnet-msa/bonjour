@@ -7,7 +7,7 @@ let cfg =
   { defaultConfig with bindings = [ HttpBinding.createSimple HTTP "0.0.0.0" 5000 
              ] }
 
-let strings = [ "Bonjour service running at http://"; Dns.GetHostName(); ":5000" ]
+let strings = [ "Bonjour service (written in F#) running at http://"; Dns.GetHostName(); ":5000" ]
 let response = System.String.Concat(strings)
 
 [<EntryPoint>]
